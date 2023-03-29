@@ -16,7 +16,7 @@ The dataset was provided by [CrowdFlower](https://data.world/crowdflower/brands-
 
 ## Data Review
 
-9,093 rows
+Our initial dataset consisted of 9,093 rows of tweet data, what product the emotion in the tweet is directed at, and what the emotion is for the brand or product.
 
 ---
 
@@ -32,7 +32,7 @@ We started by adding columns that would count the amount of mentions and links c
 - Removing punctuation by ignores contraction apostraphes
 - Removing stopwords
 - Removing non-ASCII chracters
-- Lemmatizes the words
+- Lemmatizing the words
 
 We then feature engineered additional columns that identified if the tweets pertained to Google or Apple and approximated these two companies as well based on text from the tweet.
 
