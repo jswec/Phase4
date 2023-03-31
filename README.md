@@ -56,7 +56,7 @@ Since punctuation as well as capitalization can be used to express emotion, we a
 
 ![image](https://github.com/jswec/Phase4/blob/main/plots_and_images/emotion_distribution_caps_and_punctuation.png)
 
-Finally, we wanted to visualize the top 10 most common words from our cleaned up tweets and see what was most popular from this dataset.
+We wanted to visualize the top 10 most common words from our cleaned up tweets and see what was most popular from this dataset.
 
 ![image](https://github.com/jswec/Phase4/blob/main/plots_and_images/top_10_most_common_words.png)
 
@@ -89,6 +89,10 @@ After initially running our three models, we ran them through a grid search to t
 From our analysis, the final model that we went with was the tuned Naive Bayes model that used a Count Vectorizer. The metrics that we used to evaluate these models were F1 scores and accuracy. The Naive Bayes model resulted in the highest F1 and accuracy scores when compared to our other tuned models.
 
 ![image](https://github.com/jswec/Phase4/blob/main/plots_and_images/f1_and_accuracy_scores.png)
+
+This model was then deployed and produced word clouds for negative, neutral, and positive sentiments for Apple tweets:
+
+![image](https://github.com/jswec/Phase4/blob/main/plots_and_images/word_clouds.png)
 
 ## Recommendations
 
