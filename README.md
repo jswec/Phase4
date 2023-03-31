@@ -98,7 +98,7 @@ This model was then deployed and produced word clouds for negative, neutral, and
 
 With our model, we have three proposed recommendations:
 
-**1.** Leak Monitoring - Use this model to sentiment after an Apple leak. This would allow an opportunity to test the waters for coming features.
+**1.** Leak Monitoring - Use this model to gauge public sentiment after an Apple leak. This would allow an opportunity to test the waters for coming features.
 
 **2.** Increased Marketing Productivity - Easy-to-use, user-friendly model that can see widespread adoption
 
