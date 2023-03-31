@@ -106,5 +106,5 @@ With our model, we have three proposed recommendations:
 
 ## Addition Information
 
-Full review of our notebook can be found [here](https://github.com/jswec/Phase4/blob/main/phase_4_final.ipynb), and our presentation deck can be found [here].
+Full review of our notebook can be found [here](https://github.com/jswec/Phase4/blob/main/phase_4_final.ipynb), and our presentation deck can be found [here](https://github.com/jswec/Phase4/blob/main/ADRJ%20-%20Phase%204%20-%20NLP%20Presentation.pdf).
 
