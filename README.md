@@ -26,7 +26,7 @@ Our initial dataset consisted of 9,093 rows of tweet data, what product the emot
 
 ---
 
-## Data Cleaning
+## Data Cleaning & Feature Engineering
 
 We started by adding columns that would count the amount of mentions and links contained in each tweet row. Next we dropped non-significant values where the emotion was categorized as "I can't tell". Text data was then cleaned by creating a function (clean_text) that was composed of:
 - Converting text to lower case
